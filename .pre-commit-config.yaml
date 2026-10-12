@@ -34,3 +34,5 @@ repos:
     hooks:
       - id: check-dependabot
       - id: check-github-workflows
+      - id: check-github-issue-config
+      - id: check-github-issue-forms
