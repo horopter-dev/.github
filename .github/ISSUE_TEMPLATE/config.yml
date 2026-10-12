@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a security vulnerability
+    url: https://github.com/horopter-dev/.github/blob/main/SECURITY.md
+    about: Report vulnerabilities privately, as the security policy describes, not in an issue.
+  - name: Documentation
+    url: https://docs.horopter.dev/
+    about: Tutorials, how-to guides, concepts and reference.

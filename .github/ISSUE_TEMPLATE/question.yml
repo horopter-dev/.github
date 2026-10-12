@@ -1,0 +1,17 @@
+name: Question
+description: Ask how to do something with Horopter.
+body:
+  - type: markdown
+    attributes:
+      value: The [docs](https://docs.horopter.dev/) may already answer it.
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: What you have tried
+      description: Commands you ran, pages you read, and what happened.
