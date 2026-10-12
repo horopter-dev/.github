@@ -46,7 +46,7 @@ We agree to restrict the following behaviors in our community. Instances, threat
 
 Tensions can occur between community members even when they are trying their best to collaborate. Not every conflict represents a code of conduct violation, and this Code of Conduct reinforces encouraged behaviors and norms that can help avoid conflicts and minimize harm.
 
-When an incident does occur, it is important to report it promptly. To report a possible violation, email [conduct@horopter.dev](mailto:conduct@horopter.dev). Only the project maintainer reads it.
+When an incident does occur, it is important to report it promptly. To report a possible violation, email [conduct@horopter.dev](mailto:conduct@horopter.dev).
 
 The project maintainer takes reports of violations seriously and will make every effort to respond in a timely manner. The project maintainer will investigate all reports of code of conduct violations, reviewing messages, logs, and recordings, or interviewing witnesses and other participants. The project maintainer will keep investigation and enforcement actions as transparent as possible while prioritizing safety and confidentiality. In order to honor these values, enforcement actions are carried out in private with the involved parties, but communicating to the whole community may be part of a mutually agreed upon resolution.
 

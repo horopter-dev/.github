@@ -24,9 +24,7 @@ body:
     attributes:
       label: Version
       description: The output of the affected binary's `--version`, or the chart or action version.
-      placeholder: v0.13.0
-    validations:
-      required: true
+      placeholder: v0.x.y
   - type: textarea
     id: what-happened
     attributes:
@@ -59,4 +57,5 @@ body:
     id: environment
     attributes:
       label: Environment
-      description: How Horopter runs (compose, Kubernetes, binaries), the PostgreSQL version, and the OS.
+      description: >-
+        How Horopter runs (compose, Kubernetes, binaries), the PostgreSQL version, and the OS.
