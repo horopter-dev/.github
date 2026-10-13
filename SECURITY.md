@@ -18,8 +18,8 @@ Include what you can of:
 - **Updates** as the investigation and fix progress. There is no fixed deadline for a fix:
   Horopter has a single maintainer, and this policy promises only what one person can keep.
 - **Disclosure** is coordinated with you. Once a fixed release exists, the vulnerability is
-  published as a GitHub security advisory. Disclosure happens no later than 90 days after
-  your report, fixed or not.
+  published as a GitHub security advisory. We aim to disclose within 90 days of your report;
+  if a fix needs longer, we agree a later date with you.
 
 ## Supported Versions
 
