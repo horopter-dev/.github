@@ -27,3 +27,7 @@ jobs:
         with:
           install_args: prek
       - run: prek run --all-files --show-diff-on-failure --color=always
+        env:
+          # jactionlint's online rules run in CI only; the local hooks stay offline.
+          JACTIONLINT_ONLINE: 1
+          GITHUB_TOKEN: ${{ github.token }}
